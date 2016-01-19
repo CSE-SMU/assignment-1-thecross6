@@ -1,2 +1,2 @@
-# CSE3345: Assignment #1
-The walkthrough is located at http://bit.ly/1JNnq5H
+# CSE3345: Assignment #2
+The walkthrough is located at https://www.dropbox.com/sh/fqkfycmuts6th98/AAAYG_zw3WBzT5m5DDTu_ZHTa?dl=0
